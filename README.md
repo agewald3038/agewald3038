@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @agewald3038
 - 👀 I’m interested in tasks that require problem solving skills.
-- 🌱 I’m currently learning Java, C++, C# and about Design Patterns.
-- 💞️ I’m looking to collaborate on smaller projects or anything that seems interesting.
+- 🌱 I’m currently mostly working with C++, C# (because of Unity) and Python🐍
+- 💞️ I'm usually just derping around with small things to try out new languages or language features.
 - 📫 How to reach me: E-Mail to gewald.alexander@sol.at
 
 <!---
